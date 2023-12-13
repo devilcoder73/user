@@ -1,0 +1,12 @@
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/dto/UserAddress.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/service/UserService.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/enums/Tenant.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/dto/UserRequest.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/validators/PhoneValidator.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/validators/AddressValidator.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/dto/UserName.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/validators/EmailValidator.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/UserApplication.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/controller/UserController.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/repository/UserRepository.java
+/Users/kannuru.naidu/Documents/user/src/main/java/com/example/user/models/User.java
